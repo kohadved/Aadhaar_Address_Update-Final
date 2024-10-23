@@ -1,18 +1,4 @@
-# UIDAI Hackathon 2021 Submission
----
 
-![Aadhaar Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Aadhaar_Logo.svg/1200px-Aadhaar_Logo.svg.png)
-
-This is the Github repository submission of our team for the UIDAI Hackathon 2021.
-
----
-### Necessary Links 🔗
-
-1. [Presentation/Demonstration](https://drive.google.com/drive/folders/1_tZZ7tbVm0qgQgyItn1vBBni0Lyu6U-H?usp=sharing)
----
-
-### Team Name: cbxkznoia96
-### Team Referral ID: Edyxy75KKi
 ### Theme: Address Update
 ### Problem Statement: Address Update using Supporting Document
 
